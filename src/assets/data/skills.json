@@ -1,0 +1,67 @@
+[
+    {
+        "title": "HTML5",
+        "image": "html.svg"
+    },
+    {
+        "title": "CSS3",
+        "image": "css.svg"
+    },
+    {
+        "title": "Javascript",
+        "image": "js.svg"
+    },
+    {
+        "title": "ReactJS",
+        "image": "react.svg"
+    },
+    {
+        "title": "React Native",
+        "image": "react.svg"
+    },
+    {
+        "title": "Node JS",
+        "image": "node.svg"
+    },
+    {
+        "title": "Express JS",
+        "image": "js.svg"
+    },
+    {
+        "title": "jQuery",
+        "image": "jquery.svg"
+    },
+    {
+        "title": "Bootstrap",
+        "image": "bootstrap.svg"
+    },
+    {
+        "title": "MySQL",
+        "image": "mysql.svg"
+    },
+    {
+        "title": "Sequelize",
+        "image": "sequelize.svg"
+    },
+    {
+        "title": "MongoDB",
+        "image": "mongodb.svg"
+    }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

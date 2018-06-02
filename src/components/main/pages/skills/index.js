@@ -1,12 +1,20 @@
 import React, { Component } from "react";
+import Skill from "./skill";
+import SkillsData from "../../../../assets/data/skills.json";
 
 class Skills extends Component {
+
+ constructor(){
+  super();
+ }
 
  render() {
   return (
     <section className="page skills">
-    skills
-   </section>
+      {SkillsData.map((skill, index)=>{
+        return <Skill key={index} data={skill}/>
+      })}
+    </section>
   )
  }
 }
