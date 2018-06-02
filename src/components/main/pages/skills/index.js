@@ -11,9 +11,11 @@ class Skills extends Component {
  render() {
   return (
     <section className="page skills">
-      {SkillsData.map((skill, index)=>{
-        return <Skill key={index} data={skill}/>
-      })}
+      <div className="skill-wrapper">
+        {SkillsData.map((skill, index)=>{
+          return <Skill key={index} data={skill}/>
+        })}
+      </div>
     </section>
   )
  }
