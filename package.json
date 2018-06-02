@@ -1,0 +1,25 @@
+{
+  "name": "eric-solner-com",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "animated": "^0.2.2",
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0",
+    "react-router": "^4.2.0",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.1.4",
+    "react-svg": "^4.0.13",
+    "react-transition-group": "^2.3.1",
+    "react-waypoint": "^8.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts-with-sass start",
+    "build": "react-scripts-with-sass build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "create-react-app-sass": "^1.1.0"
+  }
+}
