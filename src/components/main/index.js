@@ -15,6 +15,8 @@ class Main extends Component {
         <About/>
         <Nav/>
         <Skills/>
+
+        <Footer/>
       </main>
     );
   }

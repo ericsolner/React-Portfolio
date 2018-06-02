@@ -1,5 +1,6 @@
 .about{
     height: calc(100% - #{$navOffset});
+    min-height: calc(100% - #{$navOffset});
     width:100%;
     background: url(../img/chicago-river-eric-solner.jpg);
     background-size:cover;

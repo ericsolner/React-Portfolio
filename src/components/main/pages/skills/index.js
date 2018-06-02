@@ -4,10 +4,6 @@ import SkillsData from "../../../../assets/data/skills.json";
 
 class Skills extends Component {
 
- constructor(){
-  super();
- }
-
  render() {
   return (
     <section className="page skills">
