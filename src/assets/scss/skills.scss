@@ -13,11 +13,20 @@
 
         .skill{
             width:33.3%;
-           
-           
             text-align: center;
             display: flex;
             flex-wrap: wrap;
+            @include transition(all 0.5s);
+            @include transform(scale(0) translate(0%, 100%));
+            @include opacity(0);
+
+
+            &.loaded{
+                @include transform(scale(1) translate(0%, 0%));
+                @include opacity(1);
+            }
+
+
 
             @media(max-width:640px){
                 width:50%;
