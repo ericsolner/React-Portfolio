@@ -1,6 +1,72 @@
 .projects{
-    img, svg{
-        width:100px;
-        height:100px;
+
+    padding:1rem 0;
+    background:#;
+
+    .project-wrapper{
+        display:flex;
+        flex-wrap: wrap;
+        width:100%;
+        max-width: 1200px;
+        margin:0 auto;
+
+
+        .project{
+            width:50%;
+           
+           
+            text-align: center;
+            display: flex;
+            flex-wrap: wrap;
+
+            @media(max-width:640px){
+                width:50%;
+            }
+
+            .project-wrap{
+                margin:1rem;
+                @include transition(all 0.25s);
+                background:rgba(255, 255, 255, 0.9);
+                padding:1rem;
+                width:100%;
+                display: flex;
+                flex-wrap: wrap;
+                cursor: pointer;
+                &:hover{
+                    background:rgba(255, 255, 255, 0.25);
+                }
+                @include border-radius(10px);
+
+                @media(max-width:640px){
+                    margin: 0.5rem;
+                    padding: 1rem;
+                }
+
+                div{
+                    width:100%;
+                }
+            }
+
+            img, svg{
+                width:100%;
+                max-width:200px;
+                margin:0 auto;
+                display: block;
+                margin-bottom:1rem;
+                
+            }
+
+            h3{
+                width:100%;
+                align-self: flex-end;
+                color:$navy;
+            }
+
+
+        }
     }
+    
+
+    
+
 }
