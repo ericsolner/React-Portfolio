@@ -1,27 +1,39 @@
 [
     {
         "title": "Wayfarer",
-        "image": "html.svg"
+        "image": "https://i.imgur.com/W0ejv5K.jpg",
+        "description": "Class Project",
+        "summary": "Wayfarer is a platform designed to share and inspire traveling. As a user-based app, Wayfarer offers unique travel suggestions from users all over the world. By creating an account, members are able to drop pins on the map to track and save their favorite travel spots, upload pictures, and share travel ideas with the Wayfarer community. Each pin on the map is a unique travel post, created by a Warfarer member. Clicking on a pin will display the post's content. "
     },
     {
         "title": "BrewSearch",
-        "image": "css.svg"
+        "image": "https://i.imgur.com/hSrN3Vn.jpg",
+        "description": "Class Project",
+        "summary": "Are you a beer aficionado? With our site, you can search for breweries anywhere in the US. Plan a road trip with your friends to check out locally owned breweries, look up information about your favorite beers, and discover new beers before you head to the liquor store."
     },
     {
         "title": "Mentor Match",
-        "image": "js.svg"
+        "image": "https://i.imgur.com/guciSvx.jpg",
+        "description": "Class Project",
+        "summary": "Match making app designed for students to find a mentor to help their careers. Built with React Native"
     },
     {
         "title": "Office Memory",
-        "image": "react.svg"
+        "image": "https://i.imgur.com/kmDdfCZ.jpg",
+        "description": "Class Assignment",
+        "summary": "An Office themed memory game built using React.js"
     },
     {
         "title": "Train Schedule App",
-        "image": "react.svg"
+        "image": "https://i.imgur.com/b7ASyIt.jpg",
+        "description": "Class Assignment",
+        "summary": "A train schedule application that incorporates Firebase to host arrival and departure data. The app retrieves and manipulates this information with Moment.js. It provides up-to-date information about various trains, namely their arrival times and how many minutes remain until they arrive at their station."
     },
     {
         "title": "Burger App",
-        "image": "node.svg"
+        "image": "https://i.imgur.com/Kc1STIp.png",
+        "description": "Class Assignment",
+        "summary": "Eat-Da-Burger! is a restaurant app that lets users input the names of burgers they'd like to eat. Whenever a user submits a burger's name, the app will display the burger on the left side of the page -- waiting to be devoured. Each burger in the waiting area also has a `Eat It!` button. When the user clicks it, the burger will move to the right side of the page. The app will store every burger in a database, whether devoured or not."
     }
 ]
 
