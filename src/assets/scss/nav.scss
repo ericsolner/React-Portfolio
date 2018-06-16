@@ -10,6 +10,12 @@ nav{
     @include transition(all 0.25s);
     z-index: 100;
 
+    -webkit-box-shadow: -6px -7px 48px 0px rgba(0,0,0,0.75);
+            -moz-box-shadow: -6px -7px 48px 0px rgba(0,0,0,0.75);
+            box-shadow: -6px -7px 48px 0px rgba(0,0,0,0.75);
+
+            
+
     &.locked{
         position: fixed;
         width:100%;

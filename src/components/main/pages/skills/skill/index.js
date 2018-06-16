@@ -18,9 +18,13 @@ class Skill extends Component {
     });
  }
 
+ openDetails(){
+   alert('go ahead')
+ }
+
  render() {
   return (
-    <div className={`skill ${this.state.ready ? 'loaded' : '' }`}>
+    <div onClick={this.openDetails} className={`skill ${this.state.ready ? 'loaded' : '' }`}>
         <div className="skill-wrap">
            <ReactSVG path={require(`../../../../../assets/img/skills-icons/${this.props.data.image}`)}
         />
