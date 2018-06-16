@@ -23,6 +23,7 @@ h1, h2, h3, h4, h5, h6{
 
 section{
     min-height:100vh;
+    position: relative;
 }
 
 .waypoint-wrapper{
@@ -37,6 +38,21 @@ section{
     position: absolute;
     top:0;
     width: 100%;
+}
+
+.route-trigger-wrapper{
+    width: 100%;
+    position: absolute;
+    left:0;
+    pointer-events: none;
+
+    &.top{
+        top:25vh;
+    }
+
+    &.bottom{
+        bottom:25vh;
+    }
 }
 
 .content{
