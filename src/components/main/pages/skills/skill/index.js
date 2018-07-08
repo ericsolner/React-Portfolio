@@ -48,7 +48,7 @@ class Skill extends Component {
         <SlidingPane
                 isOpen={ this.state.isPaneOpen }
                 
-                width='800px'
+                width='500px'
                 onRequestClose={ () => this.setState({ isPaneOpen: false }) }>
                 <ReactSVG className="SlidingPane-svg" path={require(`../../../../../assets/img/skills-icons/${this.props.data.image}`)}
         />

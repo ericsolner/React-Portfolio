@@ -21,6 +21,7 @@ class Skills extends Component {
   render() {
     return (
       <section className="page skills" ref="skills">
+      <h1 className="skill-title">Skills</h1>
         <div className="skill-wrapper">
         {this.state.elem ? <RouteScrollHandler route="skills" elem={this.state.elem}/> : "" }
           {SkillsData.map((skill, index)=>{
