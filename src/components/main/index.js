@@ -8,8 +8,6 @@ import About from './pages/about';
 
 class Main extends Component {
 
-  componentWillAppear(){} 
-
   render() {
     return (
       <main>

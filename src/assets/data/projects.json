@@ -1,38 +1,50 @@
 [
     {
         "title": "Wayfarer",
-        "image": "https://i.imgur.com/W0ejv5K.jpg",
+        "image": "wayfarer.png",
         "description": "Class Project",
+        "button": "Visit Wayfarer",
+        "url": "https://desolate-river-32542.herokuapp.com/map",
         "summary": "Wayfarer is a platform designed to share and inspire traveling. As a user-based app, Wayfarer offers unique travel suggestions from users all over the world. By creating an account, members are able to drop pins on the map to track and save their favorite travel spots, upload pictures, and share travel ideas with the Wayfarer community. Each pin on the map is a unique travel post, created by a Warfarer member. Clicking on a pin will display the post's content. "
     },
     {
         "title": "BrewSearch",
-        "image": "https://i.imgur.com/hSrN3Vn.jpg",
+        "image": "brewsearch.png",
         "description": "Class Project",
+        "button": "Visit Brewsearch",
+        "url": "https://ericsolner.github.io/Brew-Search/index.html",
         "summary": "Are you a beer aficionado? With our site, you can search for breweries anywhere in the US. Plan a road trip with your friends to check out locally owned breweries, look up information about your favorite beers, and discover new beers before you head to the liquor store."
     },
     {
         "title": "Mentor Match",
-        "image": "https://i.imgur.com/guciSvx.jpg",
+        "image": "mentor.png",
         "description": "Class Project",
+        "button": "View Code",
+        "url": "https://github.com/ericsolner/Mentor-Match-",
         "summary": "Match making app designed for students to find a mentor to help their careers. Built with React Native"
     },
     {
         "title": "Office Memory",
-        "image": "https://i.imgur.com/kmDdfCZ.jpg",
+        "image": "office.png",
         "description": "Class Assignment",
+        "button": "Visit Office Memory",
+        "url": "https://stark-atoll-81802.herokuapp.com/",
         "summary": "An Office themed memory game built using React.js"
     },
     {
         "title": "Train Schedule App",
-        "image": "https://i.imgur.com/b7ASyIt.jpg",
+        "image": "train.png",
         "description": "Class Assignment",
+        "button": "Visit Train Schedule App",
+        "url": "https://ericsolner.github.io/train-schedule/",
         "summary": "A train schedule application that incorporates Firebase to host arrival and departure data. The app retrieves and manipulates this information with Moment.js. It provides up-to-date information about various trains, namely their arrival times and how many minutes remain until they arrive at their station."
     },
     {
         "title": "Burger App",
-        "image": "https://i.imgur.com/Kc1STIp.png",
+        "image": "burger.png",
         "description": "Class Assignment",
+        "button": "Visit Burger App",
+        "url": "https://calm-plateau-91582.herokuapp.com/index",
         "summary": "Eat-Da-Burger! is a restaurant app that lets users input the names of burgers they'd like to eat. Whenever a user submits a burger's name, the app will display the burger on the left side of the page -- waiting to be devoured. Each burger in the waiting area also has a `Eat It!` button. When the user clicks it, the burger will move to the right side of the page. The app will store every burger in a database, whether devoured or not."
     }
 ]

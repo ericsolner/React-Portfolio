@@ -70,6 +70,21 @@
                 align-self: flex-end;
                 color:$navy;
             }
+
+            h1.skill-title {
+                color: white;
+                width: 100%;
+                align-self: flex-end;
+            }
+
+            .project-button {
+                background: #2B2C44;
+                padding: 10px 50px;
+                color: #fff;
+                font-size: 22px;
+                border-radius: 40px; 
+
+            }
         }
     }
 }

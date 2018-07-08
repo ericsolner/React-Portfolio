@@ -1,14 +1,28 @@
 import React, { Component } from "react";
 import ReactSVG from 'react-svg';
+import RouteScrollHandler from '../../../utilities/route-scroll-handler';
 import ProfilePhoto from '../../../../assets/img/eric-solner.jpg';
 import GithubLogo from '../../../../assets/img/github.svg';
 import LinkedInLogo from '../../../../assets/img/linkedin.svg';
 
 class About extends Component {
+    constructor(){
+        super();
+        this.state = {}
+    }
+    componentDidMount(){
+        this.setState({
+            elem : this.refs.about
+        })
+    }
 
  render() {
+
+   
   return (
-    <section className="about">
+    <section className="about" ref="about">
+        {this.state.elem ? <RouteScrollHandler route="" elem={this.state.elem}/> : "" }
+    
         <div className="content">
             <div className="flex-wrap">
                 <div>
