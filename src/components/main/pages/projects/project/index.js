@@ -31,7 +31,7 @@ export default class CustomAnimation extends React.Component {
                 isOpen={ this.state.isPaneOpen }
                 width='800px'
                 onRequestClose={()=> this.setState({ isPaneOpen: false })}>
-	        <img className="project-modal-img" src={require(`../../../../../assets/img/portfolio-icons/${this.props.data.image}`)}/>
+	        <img className="project-modal-img" src={require(`../../../../../assets/img/portfolio-icons/${this.props.data.modalimage}`)}/>
 	        <h3 className="project-title">{this.props.data.title}</h3>
 	        <p className="summary-paragraph">{this.props.data.summary}</p>
 	        <a className="project-button" href={this.props.data.url} target="_blank">{this.props.data.button}</a>
