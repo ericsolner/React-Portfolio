@@ -1,0 +1,92 @@
+[
+    {
+        "title": "HTML5",
+        "image": "html.svg",
+        "secondary": "",
+        "summary": "blah blah blah"
+    },
+    {
+        "title": "CSS3",
+        "image": "css.svg",
+        "secondary": "Hover Effects",
+        "summary": "Hover effect is simply a change (of color, size, shape, image etc.) of some element while you put a mouse arrow over it. It is achieved with CSS."
+    },
+    {
+        "title": "Javascript",
+        "image": "js.svg",
+        "secondary": "",
+        "summary": ""
+    },
+    {
+        "title": "ReactJS",
+        "image": "react.svg",
+        "secondary": "React-Modal",
+        "summary": "React-Modal is a dialog component for React.js. Easy to install using NPM or Yarn. This portfolio was built with the help of React-Modal"
+    },
+    {
+        "title": "React Native",
+        "image": "react.svg",
+        "secondary": "RefreshControl",
+        "summary": "The RefreshControl component is used inside a ScrollView or ListView to add pull to refresh functionality. Pull to refresh is a very common technique used on mobile applications to refresh pages easily "
+    },
+    {
+        "title": "Node JS",
+        "image": "node.svg",
+        "secondary": "Reverse Proxy",
+        "summary": "If you have a high‑traffic site, the first step in increasing application performance is to put a reverse proxy server in front of your Node.js server. This protects the Node.js server from direct exposure to Internet traffic and allows you a great deal of flexibility in using multiple application servers, in load balancing across the servers, and in caching content."
+    },
+    {
+        "title": "Express JS",
+        "image": "express.svg",
+        "secondary": "",
+        "summary": ""
+    },
+    {
+        "title": "jQuery",
+        "image": "jquery.svg",
+        "secondary": "",
+        "summary": ""
+    },
+    {
+        "title": "Bootstrap",
+        "image": "bootstrap.svg",
+        "secondary": "",
+        "summary": ""
+    },
+    {
+        "title": "MySQL",
+        "image": "mysql.svg",
+        "secondary": "",
+        "summary": ""
+    },
+    {
+        "title": "Sequelize",
+        "image": "sequelize.svg",
+        "secondary": "",
+        "summary": ""
+    },
+    {
+        "title": "MongoDB",
+        "image": "mongodb.svg",
+        "secondary": "",
+        "summary": ""
+    }
+
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

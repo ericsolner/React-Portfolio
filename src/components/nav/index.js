@@ -17,6 +17,7 @@ class Nav extends Component {
     }
 
     this.lockNav = this.lockNav.bind(this);
+    this.goToSection = this.goToSection.bind(this);
   }
 
   lockNav(lock){
@@ -24,6 +25,17 @@ class Nav extends Component {
       locked : lock
     });
   }
+
+
+  goToSection(section){
+   let elem = document.querySelector(`.${section}`);
+   let navHeight = document.querySelector(".waypoint-wrapper nav").offsetHeight;
+   let scrollPos = elem.offsetTop - navHeight;
+   
+
+   window.scrollTo( 0, scrollPos );
+  }
+
 
   render() {
     return (
@@ -38,13 +50,13 @@ class Nav extends Component {
           
           <div className="logo"><Link to="/"><ReactSVG path={Logo} alt="Eric Solner Logo"/></Link></div>
           <ul>
-            <li><Link to="/about">About</Link></li>
-            <li><Link to="/skills">Skills</Link></li>
-            <li><Link to="/portfolio">Portfolio</Link></li>
-            <li className="icon"><a href="https://github.com/ericsolner" target="_blank"><ReactSVG path={GithubLogo} alt="Github Logo"/></a></li>
-            <li className="icon"><a href="https://www.linkedin.com/in/ericsolner/" target="_blank"><ReactSVG path={LinkedInLogo} alt="LinkedIn Logo"/></a></li>
-            <li className="icon"><a href="mailto:Eric.Solner@Yahoo.com" target="_blank"><ReactSVG path={EmailIcon} alt="Email Eric Solner Icon"/></a></li>
-            <li className="icon"><a href="tel:18155295530" target="_blank"><ReactSVG path={PhoneIcon} alt="Call Eric Solner Icon"/></a></li>
+            <li><Link to="/about" onClick={()=>{this.goToSection('about')}}>About</Link></li>
+            <li><Link to="/skills" href="/skills" onClick={()=>{this.goToSection('skills')}}>Skills</Link></li>
+            <li><Link to="/portfolio" onClick={()=>{this.goToSection('projects')}}>Portfolio</Link></li>
+            <li className="icon"><a href="https://github.com/ericsolner" target="_blank" rel="noopener noreferrer"><ReactSVG path={GithubLogo} alt="Github Logo"/></a></li>
+            <li className="icon"><a href="https://www.linkedin.com/in/ericsolner/" target="_blank" rel="noopener noreferrer"><ReactSVG path={LinkedInLogo} alt="LinkedIn Logo"/></a></li>
+            <li className="icon"><a href="mailto:Eric.Solner@Yahoo.com"><ReactSVG path={EmailIcon} alt="Email Eric Solner Icon"/></a></li>
+            <li className="icon"><a href="tel:18155295530"><ReactSVG path={PhoneIcon} alt="Call Eric Solner Icon"/></a></li>
           </ul>
         </nav>
       </div>

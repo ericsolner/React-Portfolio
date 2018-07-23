@@ -1,11 +1,13 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
 
-import Nav from './components/nav';
 import Main from './components/main';
 import Footer from './components/footer';
+import {withRouter} from 'react-router-dom';
 
 class App extends Component {
+  componentDidMount(){
+    console.log(this.props.location.pathname);
+  }
   render() {
     return (
       <div className="App">
@@ -16,4 +18,4 @@ class App extends Component {
   }
 }
 
-export default App;
+export default withRouter(App);
