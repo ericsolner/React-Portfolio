@@ -6,17 +6,21 @@
     "animated": "^0.2.2",
     "react": "^16.4.0",
     "react-dom": "^16.4.0",
+    "react-modal": "^3.5.1",
     "react-responsive-modal": "^3.0.2",
     "react-router": "^4.2.0",
     "react-router-dom": "^4.3.1",
     "react-scripts": "1.1.4",
+    "react-sliding-pane": "^2.0.2",
     "react-svg": "^4.0.13",
     "react-transition-group": "^2.3.1",
     "react-waypoint": "^8.0.1"
   },
   "scripts": {
-    "start": "react-scripts-with-sass start",
-    "build": "react-scripts-with-sass build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "startSass": "react-scripts-with-sass start",
+    "buildSass": "react-scripts-with-sass build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
