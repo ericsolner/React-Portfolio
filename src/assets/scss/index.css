@@ -333,6 +333,7 @@ footer {
       .skills .skill-wrapper .skill img, .skills .skill-wrapper .skill svg {
         width: 100%;
         max-width: 200px;
+        max-height: 200px;
         margin: 0 auto;
         display: block;
         margin-bottom: 1rem; }
@@ -350,8 +351,8 @@ h1.skill-title {
   margin: auto; }
 
 .SlidingPane-svg {
-  width: 100%;
   max-width: 300px;
+  max-height: 300px;
   margin: 0 auto;
   display: block; }
 

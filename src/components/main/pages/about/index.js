@@ -30,7 +30,7 @@ class About extends Component {
                 </div>
                 <div>
                     <h1>Hi, I'm <strong>Eric Solner</strong>.</h1>
-                    <p>I'm a passionate web developer from Chicago who specializes in front-end user interfaces. I am recent graduate of the Northwestern University Coding Bootcamp and am looking to join a team!</p>
+                    <p>I'm a passionate web developer from Chicago who specializes in front-end user interfaces.</p>
                     <div className="contact-info">
                         <ul className="native-list">
                             <li><h4>Let's Talk!</h4></li>

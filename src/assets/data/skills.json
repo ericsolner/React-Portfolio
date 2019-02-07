@@ -2,8 +2,8 @@
     {
         "title": "HTML5",
         "image": "html.svg",
-        "secondary": "",
-        "summary": "blah blah blah"
+        "secondary": "HTML5 Banners ",
+        "summary": "HTML5 allows you to create banners that are mobile ready, responsive, and rich in features. Rather than designing a static campaign for desktop and then scaling each banner individually, you can instead scale up with HTML5! Advertising has long gone mobile and HTML5 is the way to make the banners you need."
     },
     {
         "title": "CSS3",
@@ -14,8 +14,14 @@
     {
         "title": "Javascript",
         "image": "js.svg",
+        "secondary": "Frameworks",
+        "summary": "A JavaScript framework is an application framework written in JavaScript. It differs from a JavaScript library in its control flow a library offers functions to be called by its parent code, whereas a framework defines the entire application design.[2] A developer does not call a framework; instead it is the framework that will call and use the code in some particular way. Some JavaScript frameworks follow the model–view–controller paradigm designed to segregate a web application into orthogonal units to improve code quality and maintainability. Examples: AngularJS, Ember.js, Meteor.js."
+    },
+    {
+        "title": "SASS",
+        "image": "sass.svg",
         "secondary": "",
-        "summary": ""
+        "summary": "Sass is a style sheet language initially designed by Henry Thornton and developed by Natalie Weizenbaum. After its initial versions, Weizenbaum and Chris Eppstein have continued to extend Sass with SassScript, a simple scripting language used in Sass files."
     },
     {
         "title": "ReactJS",
@@ -25,7 +31,7 @@
     },
     {
         "title": "React Native",
-        "image": "react.svg",
+        "image": "react-n.svg",
         "secondary": "RefreshControl",
         "summary": "The RefreshControl component is used inside a ScrollView or ListView to add pull to refresh functionality. Pull to refresh is a very common technique used on mobile applications to refresh pages easily "
     },
@@ -39,37 +45,49 @@
         "title": "Express JS",
         "image": "express.svg",
         "secondary": "",
-        "summary": ""
+        "summary": "Express.js, or simply Express, is a web application framework for Node.js, released as free and open-source software under the MIT License. It is designed for building web applications and APIs. It has been called the de facto standard server framework for Node.js."
     },
     {
         "title": "jQuery",
         "image": "jquery.svg",
         "secondary": "",
-        "summary": ""
+        "summary": "jQuery is a JavaScript library designed to simplify HTML DOM tree traversal and manipulation, as well as event handling, CSS animation, and Ajax. It is free, open-source software using the permissive MIT License. Web analysis indicates that it is the most widely deployed JavaScript library by a large margin."
     },
     {
         "title": "Bootstrap",
         "image": "bootstrap.svg",
         "secondary": "",
-        "summary": ""
+        "summary": "Bootstrap is a free and open-source front-end framework for developing websites and web applications. It contains HTML and CSS-based design templates for typography, forms, buttons, navigation and other interface components, as well as optional JavaScript extensions"
     },
     {
         "title": "MySQL",
         "image": "mysql.svg",
         "secondary": "",
-        "summary": ""
+        "summary": "MySQL is an open source relational database management system. Its name is a combination of \"My\", the name of co-founder Michael Widenius's daughter, and \"SQL\", the abbreviation for Structured Query Language."
     },
     {
-        "title": "Sequelize",
-        "image": "sequelize.svg",
+        "title": "Git",
+        "image": "git.svg",
         "secondary": "",
-        "summary": ""
+        "summary": "Git is a distributed version control system for tracking changes in source code during software development. It is designed for coordinating work among programmers, but it can be used to track changes in any set of files. Its goals include speed, data integrity, and support for distributed, non-linear workflows."
     },
     {
         "title": "MongoDB",
         "image": "mongodb.svg",
         "secondary": "",
-        "summary": ""
+        "summary": "MongoDB is a cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with schemata. MongoDB is developed by MongoDB Inc. and licensed under the Server Side Public License."
+    },
+    {
+        "title": "Patternlab",
+        "image": "patternlab.svg",
+        "secondary": "",
+        "summary": "At its core, Pattern Lab is a static site generator (powered by either PHP or Node) that stitches together UI components. But there's a whole lot more to it than that!"
+    },
+    {
+        "title": "Yarn",
+        "image": "yarn.svg",
+        "secondary": "Yarn Package Manager",
+        "summary": "Yarn is a new package manager that replaces the existing workflow for the npm client or other package managers while remaining compatible with the npm registry. It has the same feature set as existing workflows while operating faster, more securely, and more reliably."
     }
 
 ]
