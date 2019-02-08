@@ -29,7 +29,7 @@
             }
 
             @media(max-width:640px){
-                width:50%;
+                width:100%;
             }
 
             .project-wrap{
@@ -136,6 +136,18 @@ h1.portfolio-title {
     margin: auto;
     color: white;
 }
+
+
+.projects .project-wrapper .project {
+
+    @media (max-width: 640px) {
+    width: 100%;
+    }
+}
+
+.slide-pane__content {
+    margin-left: 0;
+  }
 
     
 

@@ -52,9 +52,9 @@ class Skill extends Component {
                 onRequestClose={ () => this.setState({ isPaneOpen: false }) }>
                 <ReactSVG className="SlidingPane-svg" path={require(`../../../../../assets/img/skills-icons/${this.props.data.image}`)}
         />
-        <h2>{this.props.data.title}</h2>
-        <h3>{this.props.data.secondary}</h3>
-        <p>{this.props.data.summary}</p>
+        <h2 className="skill-modal-title">{this.props.data.title}</h2>
+        <h3 className="skill-modal-secondary">{this.props.data.secondary}</h3>
+        <p className="skill-modal-summary">{this.props.data.summary}</p>
       </SlidingPane>
     </div>
   )
