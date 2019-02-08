@@ -1,5 +1,14 @@
 [
     {
+        "title": "Plainfield Fishing Resort",
+        "image": "pfr-1.png",
+        "modalimage": "pfr-2.png",
+        "description": "Freelance Project",
+        "button": "Visit Plainfield Fishing Resort Website!",
+        "url": "https://ericsolner.github.io/Plainfield-Fishing-Resort/",
+        "summary": "A freelance website built for the Plainfield Fishing Resort using bootstrap and javascript."
+    },
+    {
         "title": "Wayfarer",
         "image": "wayfarer.png",
         "modalimage": "wayfarer.png",
@@ -27,15 +36,6 @@
         "summary": "Mentor Match is a mobile application for both professionals seeking mentorship and those looking to pay their expertise forward. User's sign up and create a profile with current skills and work experience, and based their profile, Mentor Match will return other users that fit the Mentor / Mentee match and open a chat for users to interact."
     },
     
-    {
-        "title": "Plainfield Fishing Resort",
-        "image": "pfr-1.png",
-        "modalimage": "pfr-2.png",
-        "description": "Freelance Project",
-        "button": "Visit Plainfield Fishing Resort Website!",
-        "url": "https://ericsolner.github.io/Plainfield-Fishing-Resort/",
-        "summary": "A freelance website built for the Plainfield Fishing Resort using bootstrap and javascript."
-    },
     {
         "title": "Office Memory",
         "image": "office.png",
