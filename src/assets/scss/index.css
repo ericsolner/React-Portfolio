@@ -425,6 +425,10 @@ h1.skill-title {
         display: block;
         margin-bottom: 1rem;
         border-radius: 10px; }
+        @media (max-width: 1150px) {
+          .projects .project-wrapper .project img, .projects .project-wrapper .project svg {
+            max-height: 450px;
+            max-width: 450px } }
         @media (max-width: 640px) {
           .projects .project-wrapper .project img, .projects .project-wrapper .project svg {
             max-height: 300px; } }
