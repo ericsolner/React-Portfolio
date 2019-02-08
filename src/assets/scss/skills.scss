@@ -86,3 +86,7 @@ h1.skill-title {
     margin: auto;
 }
 
+@media (max-width: 640px) {
+    .skills .skill-wrapper .skill svg {
+      max-height: 150px; } }
+

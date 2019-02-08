@@ -336,7 +336,8 @@ footer {
         max-height: 200px;
         margin: 0 auto;
         display: block;
-        margin-bottom: 1rem; }
+        margin-bottom: 1rem; 
+      }
       .skills .skill-wrapper .skill h3, .skills .skill-wrapper .skill h5 {
         width: 100%;
         align-self: flex-end;
@@ -467,3 +468,8 @@ h1.portfolio-title {
 .slide-pane__content {
   margin-left: 0;
 }
+
+
+@media (max-width: 640px) {
+  .skills .skill-wrapper .skill svg {
+    max-height: 150px; } }
