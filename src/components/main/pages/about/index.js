@@ -38,7 +38,7 @@ class About extends Component {
                             <li><a href="tel:8155295530">(815) 529-5530</a></li>
                         </ul>
                         <ul>
-                            <li><a href="https://github.com/ericsolner" target="_blank" rel="noopener noreferrer"><ReactSVG path={GithubLogo} alt="Github Logo"/></a></li>
+                            <li><a className="githublogo" href="https://github.com/ericsolner" target="_blank" rel="noopener noreferrer"><ReactSVG path={GithubLogo} alt="Github Logo"/></a></li>
                             <li><a href="https://www.linkedin.com/in/ericsolner/" target="_blank" rel="noopener noreferrer"><ReactSVG path={LinkedInLogo} alt="LinkedIn Logo"/></a></li>
                             
                         </ul>
