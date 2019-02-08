@@ -167,7 +167,8 @@ footer {
   @media (max-width: 640px) {
     .about {
       height: calc(100% + 69px);
-      max-height: calc(100% + 69px); } }
+      max-height: calc(100% + 69px);
+      background-size: unset; } }
 
   .about:before {
     content: "";
