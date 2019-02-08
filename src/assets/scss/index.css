@@ -94,7 +94,7 @@ nav {
     max-width: 8rem;
     width: 100%; }
     nav .logo img, nav .logo svg {
-      width: 100%;
+      width: 5rem;
       fill: #fed136; }
   nav ul {
     margin: 0;
@@ -169,6 +169,14 @@ footer {
       height: calc(100% + 69px);
       max-height: calc(100% + 69px);
       background-size: unset; } }
+
+      @media (max-width: 1024px) {
+        .about {
+          background-size: unset; } }
+
+          @media (max-width: 768px) {
+            .about {
+              background-size: unset; } }
 
   .about:before {
     content: "";
@@ -388,7 +396,10 @@ h1.skill-title {
       @media (max-width: 768px) {
         .projects .project-wrapper .project {
           width: 75%; 
-          margin: 0 auto;} }
+          margin: 0 auto;
+          max-height: 800px;
+          height:100%;}
+           }
       @media (max-width: 640px) {
         .projects .project-wrapper .project {
           width: 100%; } }
@@ -430,6 +441,12 @@ h1.skill-title {
           .projects .project-wrapper .project img, .projects .project-wrapper .project svg {
             max-height: 450px;
             max-width: 450px } }
+
+        @media (max-width: 769px) {
+          .projects .project-wrapper .project img, .projects .project-wrapper .project svg {
+            max-height: 450px;
+            max-width: 450px; } }
+
         @media (max-width: 640px) {
           .projects .project-wrapper .project img, .projects .project-wrapper .project svg {
             max-height: 300px; } }
