@@ -1,7 +1,6 @@
 import React, { Component } from "react";
 import Skill from "./skill";
 import SkillsData from "../../../../assets/data/skills.json";
-import Waypoint from 'react-waypoint';
 import RouteScrollHandler from '../../../utilities/route-scroll-handler'
 
 class Skills extends Component {
