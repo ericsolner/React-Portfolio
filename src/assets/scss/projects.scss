@@ -28,8 +28,19 @@
                 @include opacity(1);
             }
 
+            @media(max-width:1024px){
+                width:60%
+                margin: 0 auto;
+            }
+
+            @media(max-width:768px){
+                width:75%
+                margin: 0 auto;
+            }
+
             @media(max-width:640px){
-                width:100%;
+                width:100%
+                margin: 0 auto;
             }
 
             .project-wrap{

@@ -1,12 +1,15 @@
 .about{
-    height: calc(100% - #{$navOffset});
-    min-height: calc(100% - #{$navOffset});
     width:100%;
     background: url(../img/chicago-river-eric-solner.jpg);
     background-attachment: fixed;
     background-size:cover;
     position: relative;
     background-position: center;
+
+        @media(max-width: 640px;) {
+            height: calc(100% + 69px);
+            max-height: calc(100% + 69px);
+        }
     
     &:before{
         content:"";

@@ -163,6 +163,12 @@ footer {
   background-size: cover;
   position: relative;
   background-position: center; }
+
+  @media (max-width: 640px) {
+    .about {
+      height: calc(100% + 69px);
+      max-height: calc(100% + 69px); } }
+
   .about:before {
     content: "";
     position: absolute;
@@ -374,6 +380,14 @@ h1.skill-title {
       text-align: center;
       display: flex;
       flex-wrap: wrap; }
+      @media (max-width: 1024px) {
+        .projects .project-wrapper .project {
+          width: 60%; 
+          margin: 0 auto;} }
+      @media (max-width: 768px) {
+        .projects .project-wrapper .project {
+          width: 75%; 
+          margin: 0 auto;} }
       @media (max-width: 640px) {
         .projects .project-wrapper .project {
           width: 100%; } }
