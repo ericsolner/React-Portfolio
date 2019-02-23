@@ -88,6 +88,24 @@
         "image": "yarn.svg",
         "secondary": "Yarn Package Manager",
         "summary": "Yarn is a new package manager that replaces the existing workflow for the npm client or other package managers while remaining compatible with the npm registry. It has the same feature set as existing workflows while operating faster, more securely, and more reliably."
+    },
+    {
+        "title": "Adobe Photoshop",
+        "image": "photoshop.svg",
+        "secondary": "",
+        "summary": ""
+    },
+    {
+        "title": "Adobe Illustrator",
+        "image": "illustrator.svg",
+        "secondary": "",
+        "summary": ""
+    },
+    {
+        "title": "Adobe InDesign",
+        "image": "indesign.svg",
+        "secondary": "",
+        "summary": ""
     }
 
 ]
