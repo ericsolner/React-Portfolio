@@ -36,6 +36,12 @@
         "summary": "The RefreshControl component is used inside a ScrollView or ListView to add pull to refresh functionality. Pull to refresh is a very common technique used on mobile applications to refresh pages easily "
     },
     {
+        "title": "Wordpress",
+        "image": "wordpress.svg",
+        "secondary": "",
+        "summary": "WordPress is a free and open-source content management system based on PHP & MySQL. Features include a plugin architecture and a template system. It is most associated with blogging but supports other types of web content including more traditional mailing lists and forums, media galleries, and online stores."
+    },
+    {
         "title": "Node JS",
         "image": "node.svg",
         "secondary": "Reverse Proxy",
@@ -70,12 +76,6 @@
         "image": "git.svg",
         "secondary": "",
         "summary": "Git is a distributed version control system for tracking changes in source code during software development. It is designed for coordinating work among programmers, but it can be used to track changes in any set of files. Its goals include speed, data integrity, and support for distributed, non-linear workflows."
-    },
-    {
-        "title": "MongoDB",
-        "image": "mongodb.svg",
-        "secondary": "",
-        "summary": "MongoDB is a cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with schemata. MongoDB is developed by MongoDB Inc. and licensed under the Server Side Public License."
     },
     {
         "title": "Patternlab",
