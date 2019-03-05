@@ -1,5 +1,23 @@
 [
     {
+        "title": "Corona USA",
+        "image": "corona-logo.jpg",
+        "modalimage": "corona.png",
+        "description": "Professional Project",
+        "button": "Visit Coronausa.com!",
+        "url": "https://www.coronausa.com/",
+        "summary": "Main homepage for Corona USA™. Built using React.JS and Sass"
+    },
+    {
+        "title": "Corona Premier",
+        "image": "premier-logo.jpeg",
+        "modalimage": "premier.png",
+        "description": "Professional Project",
+        "button": "Visit Coronausa.com/premier",
+        "url": "https://www.coronausa.com/premier",
+        "summary": "Corona Premier™ product page on Coronausa.com. Built using React.JS and Sass"
+    },
+    {
         "title": "Plainfield Fishing Resort",
         "image": "pfr-1.png",
         "modalimage": "pfr-2.png",

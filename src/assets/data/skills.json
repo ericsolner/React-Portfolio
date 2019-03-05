@@ -24,7 +24,7 @@
         "summary": "Sass is a style sheet language initially designed by Henry Thornton and developed by Natalie Weizenbaum. After its initial versions, Weizenbaum and Chris Eppstein have continued to extend Sass with SassScript, a simple scripting language used in Sass files."
     },
     {
-        "title": "ReactJS",
+        "title": "React JS",
         "image": "react.svg",
         "secondary": "React-Modal",
         "summary": "React-Modal is a dialog component for React.js. Easy to install using NPM or Yarn. This portfolio was built with the help of React-Modal"
@@ -60,6 +60,18 @@
         "summary": "Bootstrap is a free and open-source front-end framework for developing websites and web applications. It contains HTML and CSS-based design templates for typography, forms, buttons, navigation and other interface components, as well as optional JavaScript extensions"
     },
     {
+        "title": "PHP",
+        "image": "php.svg",
+        "secondary": "",
+        "summary": "PHP: Hypertext Preprocessor is a general-purpose programming language originally designed for web development. It was originally created by Rasmus Lerdorf in 1994; the PHP reference implementation is now produced by The PHP Group."
+    },
+    {
+        "title": "Sequelize",
+        "image": "sequelize.svg",
+        "secondary": "",
+        "summary": "Sequelize is a promise-based ORM for Node.js v4 and up. It supports the dialects PostgreSQL, MySQL, SQLite and MSSQL and features solid transaction support, relations, read replication and more."
+    },
+    {
         "title": "MySQL",
         "image": "mysql.svg",
         "secondary": "",
@@ -82,6 +94,12 @@
         "image": "patternlab.svg",
         "secondary": "",
         "summary": "At its core, Pattern Lab is a static site generator (powered by either PHP or Node) that stitches together UI components. But there's a whole lot more to it than that!"
+    },
+    {
+        "title": "Gulp JS",
+        "image": "gulp.svg",
+        "secondary": "",
+        "summary": "Gulp is an open-source JavaScript toolkit by Fractal Innovations and the open source community at GitHub, used as a streaming build system in front-end web development."
     },
     {
         "title": "Yarn",
