@@ -18,6 +18,15 @@
         "summary": "Corona Premier™ product page on Coronausa.com. Built using React.JS and Sass"
     },
     {
+        "title": "Alera Brillante",
+        "image": "alera.jpg",
+        "modalimage": "alera.jpg",
+        "description": "Professional Project",
+        "button": "Visit Alera Brillante",
+        "url": "https://alerabrillante.com/",
+        "summary": "Alera Brillante™ is a website built using PHP."
+    },
+    {
         "title": "Plainfield Fishing Resort",
         "image": "pfr-1.png",
         "modalimage": "pfr-2.png",
