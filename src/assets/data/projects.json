@@ -6,7 +6,7 @@
         "description": "Professional Project",
         "button": "Visit Coronausa.com!",
         "url": "https://www.coronausa.com/",
-        "summary": "Main homepage for Corona USA™. Built using React.JS and Sass"
+        "summary": "Main homepage for Corona USA™. Built using React.JS and Scss"
     },
     {
         "title": "Corona Premier",
@@ -15,7 +15,16 @@
         "description": "Professional Project",
         "button": "Visit Coronausa.com/premier",
         "url": "https://www.coronausa.com/premier",
-        "summary": "Corona Premier™ product page on Coronausa.com. Built using React.JS and Sass"
+        "summary": "Corona Premier™ product page on Coronausa.com. Built using React.JS and Scss"
+    },
+    {
+        "title": "Pacifico Preserves",
+        "image": "pacifico-preserves.jpeg",
+        "modalimage": "pacifico-preserves.jpeg",
+        "description": "Professional Project",
+        "button": "Visit PacificoPreserves.com",
+        "url": "http://pacificopreserves.com/",
+        "summary": "Pacifico Preserves is a single page React.JS app built using React and Scss"
     },
     {
         "title": "Alera Brillante",
