@@ -484,8 +484,28 @@ p.summary-paragraph {
   .project-button:hover {
     opacity: 0.85; }
 
-img.project-modal-img {
-  margin-left: 15%; }
+  @media(max-width:768px) {
+    img.project-modal-img {
+      display: block; 
+      width: 50%; 
+      /* margin: 0 auto; */
+    }
+  }
+  @media(max-width: 768px) {
+    p.summary-paragraph {
+      width: 50%;
+    }
+  }
+  @media(max-width: 768px) {
+    p.skill-modal-summary {
+      width: 85%;
+    }
+  }
+  @media(max-width: 768px) {
+    .project-button {
+      font-size: 15px;
+    }
+  }
 
 h3.project-title {
   margin-top: 40px; }
@@ -507,6 +527,7 @@ h1.portfolio-title {
 
 .slide-pane__content {
   margin-left: 0;
+  width: 100%;
 }
 
 

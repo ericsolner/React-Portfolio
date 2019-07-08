@@ -27,11 +27,20 @@
         "summary": "Pacifico Preserves is a single page React.JS app built using React and Scss"
     },
     {
+        "title": "Not Your Fathers Quiz",
+        "image": "nyf.jpg",
+        "modalimage": "nyf.jpg",
+        "description": "Professional Project",
+        "button": "Take the Not Your Fathers Quiz!",
+        "url": "https://notyourfathers.com/whats-your-perfect-night-in/",
+        "summary": "A simple quiz to determine your ideal night in. Built with Wordpress."
+    },
+    {
         "title": "Alera Brillante",
         "image": "alera.jpg",
         "modalimage": "alera.jpg",
         "description": "Professional Project",
-        "button": "Visit Alera Brillante",
+        "button": "Visit Aleriabrillante.com",
         "url": "https://alerabrillante.com/",
         "summary": "Alera Brillante™ is a website built using PHP."
     },
@@ -40,7 +49,7 @@
         "image": "pfr-1.png",
         "modalimage": "pfr-2.png",
         "description": "Freelance Project",
-        "button": "Visit Plainfield Fishing Resort Website!",
+        "button": "Visit Plainfieldfishing.com",
         "url": "https://ericsolner.github.io/Plainfield-Fishing-Resort/",
         "summary": "A freelance website built for the Plainfield Fishing Resort using bootstrap and javascript."
     },
@@ -80,16 +89,6 @@
         "button": "Visit Office Memory",
         "url": "https://stark-atoll-81802.herokuapp.com/",
         "summary": "An Office themed memory game built using React.js"
-    },
-
-    {
-        "title": "Burger App",
-        "image": "burger.png",
-        "modalimage": "burger.png",
-        "description": "Class Assignment",
-        "button": "Visit Burger App",
-        "url": "https://calm-plateau-91582.herokuapp.com/index",
-        "summary": "Eat-Da-Burger! is a restaurant app that lets users input the names of burgers they'd like to eat. Whenever a user submits a burger's name, the app will display the burger on the left side of the page -- waiting to be devoured. Each burger in the waiting area also has a `Eat It!` button. When the user clicks it, the burger will move to the right side of the page. The app will store every burger in a database, whether devoured or not."
     }
 ]
 
