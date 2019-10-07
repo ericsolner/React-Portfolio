@@ -30,10 +30,22 @@
         "summary": "React-Modal is a dialog component for React.js. Easy to install using NPM or Yarn. This portfolio was built with the help of React-Modal"
     },
     {
-        "title": "React Native",
-        "image": "react-n.svg",
-        "secondary": "RefreshControl",
-        "summary": "The RefreshControl component is used inside a ScrollView or ListView to add pull to refresh functionality. Pull to refresh is a very common technique used on mobile applications to refresh pages easily "
+        "title": "Node JS",
+        "image": "node.svg",
+        "secondary": "Reverse Proxy",
+        "summary": "If you have a high‑traffic site, the first step in increasing application performance is to put a reverse proxy server in front of your Node.js server. This protects the Node.js server from direct exposure to Internet traffic and allows you a great deal of flexibility in using multiple application servers, in load balancing across the servers, and in caching content."
+    },
+    {
+        "title": "Amazon Web Services",
+        "image": "aws.svg",
+        "secondary": "",
+        "summary": "If you have a high‑traffic site, the first step in increasing application performance is to put a reverse proxy server in front of your Node.js server. This protects the Node.js server from direct exposure to Internet traffic and allows you a great deal of flexibility in using multiple application servers, in load balancing across the servers, and in caching content."
+    },
+    {
+        "title": "Heroku",
+        "image": "heroku.svg",
+        "secondary": "",
+        "summary": "If you have a high‑traffic site, the first step in increasing application performance is to put a reverse proxy server in front of your Node.js server. This protects the Node.js server from direct exposure to Internet traffic and allows you a great deal of flexibility in using multiple application servers, in load balancing across the servers, and in caching content."
     },
     {
         "title": "Wordpress",
@@ -42,16 +54,16 @@
         "summary": "WordPress is a free and open-source content management system based on PHP & MySQL. Features include a plugin architecture and a template system. It is most associated with blogging but supports other types of web content including more traditional mailing lists and forums, media galleries, and online stores."
     },
     {
-        "title": "Node JS",
-        "image": "node.svg",
-        "secondary": "Reverse Proxy",
-        "summary": "If you have a high‑traffic site, the first step in increasing application performance is to put a reverse proxy server in front of your Node.js server. This protects the Node.js server from direct exposure to Internet traffic and allows you a great deal of flexibility in using multiple application servers, in load balancing across the servers, and in caching content."
+        "title": "HubSpot",
+        "image": "hubspot.svg",
+        "secondary": "",
+        "summary": "HubSpot is a developer and marketer of software products for inbound marketing and sales."
     },
     {
-        "title": "Express JS",
-        "image": "express.svg",
-        "secondary": "",
-        "summary": "Express.js, or simply Express, is a web application framework for Node.js, released as free and open-source software under the MIT License. It is designed for building web applications and APIs. It has been called the de facto standard server framework for Node.js."
+        "title": "Yarn",
+        "image": "yarn.svg",
+        "secondary": "Yarn Package Manager",
+        "summary": "Yarn is a new package manager that replaces the existing workflow for the npm client or other package managers while remaining compatible with the npm registry. It has the same feature set as existing workflows while operating faster, more securely, and more reliably."
     },
     {
         "title": "jQuery",
@@ -66,22 +78,22 @@
         "summary": "Bootstrap is a free and open-source front-end framework for developing websites and web applications. It contains HTML and CSS-based design templates for typography, forms, buttons, navigation and other interface components, as well as optional JavaScript extensions"
     },
     {
-        "title": "PHP",
-        "image": "php.svg",
-        "secondary": "",
-        "summary": "PHP: Hypertext Preprocessor is a general-purpose programming language originally designed for web development. It was originally created by Rasmus Lerdorf in 1994; the PHP reference implementation is now produced by The PHP Group."
-    },
-    {
-        "title": "Sequelize",
-        "image": "sequelize.svg",
-        "secondary": "",
-        "summary": "Sequelize is a promise-based ORM for Node.js v4 and up. It supports the dialects PostgreSQL, MySQL, SQLite and MSSQL and features solid transaction support, relations, read replication and more."
-    },
-    {
         "title": "MySQL",
         "image": "mysql.svg",
         "secondary": "",
         "summary": "MySQL is an open source relational database management system. Its name is a combination of \"My\", the name of co-founder Michael Widenius's daughter, and \"SQL\", the abbreviation for Structured Query Language."
+    },
+    {
+        "title": "Mongo DB",
+        "image": "mongodb.svg",
+        "secondary": "",
+        "summary": "MongoDB is a cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with schema."
+    },
+    {
+        "title": "Mongoose",
+        "image": "mongoose-1.svg",
+        "secondary": "",
+        "summary": "Mongoose provides a straight-forward, schema-based solution to model your application data. It includes built-in type casting, validation, query building, business logic hooks and more, out of the box."
     },
     {
         "title": "Git",
@@ -94,18 +106,6 @@
         "image": "patternlab.svg",
         "secondary": "",
         "summary": "At its core, Pattern Lab is a static site generator (powered by either PHP or Node) that stitches together UI components. But there's a whole lot more to it than that!"
-    },
-    {
-        "title": "Gulp JS",
-        "image": "gulp.svg",
-        "secondary": "",
-        "summary": "Gulp is an open-source JavaScript toolkit by Fractal Innovations and the open source community at GitHub, used as a streaming build system in front-end web development."
-    },
-    {
-        "title": "Yarn",
-        "image": "yarn.svg",
-        "secondary": "Yarn Package Manager",
-        "summary": "Yarn is a new package manager that replaces the existing workflow for the npm client or other package managers while remaining compatible with the npm registry. It has the same feature set as existing workflows while operating faster, more securely, and more reliably."
     },
     {
         "title": "Adobe Photoshop",

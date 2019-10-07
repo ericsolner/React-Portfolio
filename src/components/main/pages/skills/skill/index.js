@@ -45,7 +45,7 @@ class Skill extends Component {
           />
         </div>
 
-        <SlidingPane
+        {/* <SlidingPane
                 isOpen={ this.state.isPaneOpen }
                 
                 width='500px'
@@ -55,7 +55,7 @@ class Skill extends Component {
         <h2 className="skill-modal-title">{this.props.data.title}</h2>
         <h3 className="skill-modal-secondary">{this.props.data.secondary}</h3>
         <p className="skill-modal-summary">{this.props.data.summary}</p>
-      </SlidingPane>
+      </SlidingPane> */}
     </div>
   )
  }

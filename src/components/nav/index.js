@@ -55,7 +55,7 @@ class Nav extends Component {
             <li><Link to="/portfolio" onClick={()=>{this.goToSection('projects')}}>Portfolio</Link></li>
             <li className="icon"><a href="https://github.com/ericsolner" target="_blank" rel="noopener noreferrer"><ReactSVG path={GithubLogo} alt="Github Logo"/></a></li>
             <li className="icon"><a href="https://www.linkedin.com/in/ericsolner/" target="_blank" rel="noopener noreferrer"><ReactSVG path={LinkedInLogo} alt="LinkedIn Logo"/></a></li>
-            <li className="icon"><a href="mailto:Eric.Solner@Yahoo.com"><ReactSVG path={EmailIcon} alt="Email Eric Solner Icon"/></a></li>
+            <li className="icon"><a href="mailto:Eric.Solner@gmail.com"><ReactSVG path={EmailIcon} alt="Email Eric Solner Icon"/></a></li>
             <li className="icon"><a href="tel:18155295530"><ReactSVG path={PhoneIcon} alt="Call Eric Solner Icon"/></a></li>
           </ul>
         </nav>

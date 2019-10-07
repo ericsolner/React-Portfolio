@@ -34,7 +34,7 @@ class About extends Component {
                     <div className="contact-info">
                         <ul className="native-list">
                             <li><h4>Let's Talk!</h4></li>
-                            <li><a href="mailto:Eric.Solner@Yahoo.com">Eric.Solner@Yahoo.com</a></li>
+                            <li><a href="mailto:Eric.Solner@gmail.com">Eric.Solner@gmail.com</a></li>
                             <li><a href="tel:8155295530">(815) 529-5530</a></li>
                         </ul>
                         <ul>
