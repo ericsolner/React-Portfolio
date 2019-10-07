@@ -15,7 +15,7 @@
         "description": "Professional Project",
         "button": "Visit Upshot.agency!",
         "url": "https://www.upshot.agency",
-        "summary": "Upshot.agency was a complete site rebuild using React.js and scss. It is hosted using a static build on AWS's Elasatic Beanstalk."
+        "summary": "Upshot.agency was a complete site rebuild using React.js and scss. It is hosted using a static build on AWS's Elastic Beanstalk."
     },
     {
         "title": "Edge Marketing",
@@ -78,7 +78,7 @@
         "description": "Freelance Project",
         "button": "Visit Plainfieldfishing.com!",
         "url": "https://ericsolner.github.io/Plainfield-Fishing-Resort/",
-        "summary": "A freelance website built for the Plainfield Fishing Resort using bootstrap, css, and javascript and hosted on Heroku. "
+        "summary": "A freelance website built for the Plainfield Fishing Resort using bootstrap, css, and javascript and hosted on Github. "
     }
 ]
 
