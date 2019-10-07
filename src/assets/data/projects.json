@@ -14,7 +14,7 @@
         "modalimage": "upshot-agency.png",
         "description": "Professional Project",
         "button": "Visit Upshot.agency!",
-        "url": "https://www.upshot.agnecy",
+        "url": "https://www.upshot.agency",
         "summary": "Upshot.agency was a complete site rebuild using React.js and scss. It is hosted using a static build on AWS's Elasatic Beanstalk."
     },
     {
