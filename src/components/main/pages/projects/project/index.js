@@ -1,19 +1,7 @@
 import React from "react";
-import SlidingPane from 'react-sliding-pane';
 import 'react-sliding-pane/dist/react-sliding-pane.css';
 
 export default class CustomAnimation extends React.Component {
-  state = {
-    open: false,
-  };
-
-  onOpenModal = () => {
-    this.setState({ open: true });
-  };
-
-  onCloseModal = () => {
-    this.setState({ open: false });
-  };
   render() {
     return (
       <div className="project" >
