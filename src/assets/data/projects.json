@@ -33,7 +33,7 @@
         "description": "Professional Project",
         "button": "Visit Packersbaconsweeps.com!",
         "url": "https://www.packersbaconsweeps.com",
-        "summary": "Packers Bacon Sweeps is a site built for Patrick Cudahy Bacon. It is build in React.js and utilizes formik.js for its form validation. The entryform is validated by Google Recaptcha and saved in a Mongo Database via Compose.io."
+        "summary": "Packers Bacon Sweeps is a site built for Patrick Cudahy Bacon. It is built in React.js and utilizes formik.js for its form validation. The entryform is validated by Google Recaptcha and saved in a Mongo Database via Compose.io."
     },
     {
         "title": "Pacifico Preserves",
