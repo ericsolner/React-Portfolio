@@ -1,9 +1,6 @@
 {
   "name": "eric-solner-com",
   "version": "0.1.0",
-  "engines": {
-    "node": "5.0.0"
-  },
   "private": true,
   "dependencies": {
     "animated": "^0.2.2",
