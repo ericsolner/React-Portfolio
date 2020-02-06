@@ -23,7 +23,7 @@
         "modalimage": "mazola.jpg",
         "description": "Professional Project",
         "button": "Visit Mazola Turkey Frying!",
-        "url": "https://www.mazolaturkeyfrying.com",
+        "url": "https://mazola-turkey-frying-landing.herokuapp.com/",
         "summary": "Mazola Turkey Frying is a React.Js app built for Mazola Corn Oil. It utilizes Scss styling and React's useful modal package and is hosted on Heroku."
     },
     
@@ -42,7 +42,7 @@
         "modalimage": "cudahy.jpg",
         "description": "Professional Project",
         "button": "Visit Packersbaconsweeps.com!",
-        "url": "https://www.packersbaconsweeps.com",
+        "url": "https://patrick-cudahy-sweepstakes.herokuapp.com/",
         "summary": "Packers Bacon Sweeps is a site built for Patrick Cudahy Bacon. It is built in React.js and utilizes formik.js for its form validation. The entryform is validated by Google Recaptcha and saved in a Mongo Database via Compose.io."
     },
     {
@@ -51,7 +51,7 @@
         "modalimage": "pacifico.jpg",
         "description": "Professional Project",
         "button": "Visit PacificoPreserves.com!",
-        "url": "http://pacificopreserves.com/",
+        "url": "https://pacifico-preserves.herokuapp.com/",
         "summary": "Pacifico Preserves is a single page React.JS app built using React and Scss and is hosted on Heroku."
     },
     {
@@ -73,21 +73,12 @@
         "summary": "A simple quiz to determine your ideal night in. Built with Wordpress and hosted on AWS's Elastic Beanstalk."
     },
     {
-        "title": "Alera Brillante",
-        "image": "alera.jpg",
-        "modalimage": "alera.jpg",
-        "description": "Professional Project",
-        "button": "Visit Aleriabrillante.com",
-        "url": "https://alerabrillante.com/",
-        "summary": "Alera Brillante™ is a complete website rebuild using PHP and hosted on Heroku."
-    },
-    {
         "title": "Plainfield Fishing Resort",
         "image": "fishing.jpg",
         "modalimage": "fishing.jpg",
         "description": "Freelance Project",
         "button": "Visit Plainfieldfishing.com!",
-        "url": "https://ericsolner.github.io/Plainfield-Fishing-Resort/",
+        "url": "https://plainfieldfishing.com",
         "summary": "A freelance website built for the Plainfield Fishing Resort using bootstrap, css, and javascript and hosted on Github. "
     }
 ]
