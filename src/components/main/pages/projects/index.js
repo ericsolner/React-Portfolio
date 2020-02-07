@@ -18,10 +18,11 @@ class Projects extends Component {
  render() {
   return (
     <section className="page projects" ref="projects">
-    {this.state.elem ? <RouteScrollHandler route="portfolio" elem={this.state.elem}/> : "" }
+    {/* {this.state.elem ? <RouteScrollHandler route="portfolio" elem={this.state.elem}/> : "" } */}
     
     <h1 className="portfolio-title">Portfolio</h1>
     <div className="project-wrapper">
+    {this.state.elem ? <RouteScrollHandler route="portfolio" elem={this.state.elem}/> : "" }
       {ProjectsData.map((project, index)=>{
         return <Project key={index} data={project}/>
       })}

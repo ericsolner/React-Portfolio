@@ -1,10 +1,35 @@
-import React from "react";
+import React, { Component } from "react";
+import { Waypoint } from 'react-waypoint';
 
 
-export default class CustomAnimation extends React.Component {
+class Project extends Component {
+  constructor(props){
+    super(props);
+    this.state = {
+      ready : false,
+      isPaneOpen: false
+    };
+ 
+    this.showProject = this.showProject.bind(this);
+  }
+ 
+  componentDidMount() {
+         
+     }
+ 
+  showProject(){
+     this.setState({
+       ready : true
+     });
+  }
+ 
+  openDetails(){
+    alert('go ahead')
+  }
+
   render() {
     return (
-      <div className="project" >
+      <div ref={ref => this.el = ref} className={`project Project ${this.state.ready ? 'loaded' : '' }`} >
         <div className="project-wrap">
           <div className="project-flex-1">
             <img alt="" src={require(`../../../../../assets/img/portfolio-icons/${this.props.data.image}`)} />
@@ -16,8 +41,14 @@ export default class CustomAnimation extends React.Component {
             <a className="project-button" href={this.props.data.url} target="_blank">{this.props.data.button}</a>
           </div>
         </div>
+        <div className="position-trigger">
+          <Waypoint
+            onEnter={this.showProject}
+          />
+        </div>
       </div>
     )
   }
 }
 
+export default Project;
