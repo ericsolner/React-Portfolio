@@ -1,8 +1,7 @@
 import React, { Component } from "react";
 import ReactSVG from 'react-svg';
-import Waypoint from 'react-waypoint';
-import Modal from 'react-modal';
-import 'react-sliding-pane/dist/react-sliding-pane.css';
+import { Waypoint } from 'react-waypoint';
+
 
 class Skill extends Component {
  constructor(props){
@@ -16,7 +15,7 @@ class Skill extends Component {
  }
 
  componentDidMount() {
-        Modal.setAppElement(this.el);
+        
     }
 
  showSkill(){

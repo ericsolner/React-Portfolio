@@ -1,5 +1,5 @@
 import React from "react";
-import 'react-sliding-pane/dist/react-sliding-pane.css';
+
 
 export default class CustomAnimation extends React.Component {
   render() {

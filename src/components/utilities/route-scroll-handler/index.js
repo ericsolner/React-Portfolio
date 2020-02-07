@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import PropTypes from "prop-types";
 import { withRouter } from 'react-router'
-import Waypoint from 'react-waypoint';
+import { Waypoint } from 'react-waypoint';
 
 class RouteScrollHandler extends Component {
     

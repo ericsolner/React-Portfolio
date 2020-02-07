@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import {Link} from 'react-router-dom';
-import Waypoint from 'react-waypoint';
+import { Waypoint } from 'react-waypoint';
 import ReactSVG from 'react-svg';
 import Logo from '../../assets/img/eric-solner-logo.svg';
 import GithubLogo from '../../assets/img/github.svg';
