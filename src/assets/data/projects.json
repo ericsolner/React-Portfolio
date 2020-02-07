@@ -3,16 +3,25 @@
         "title": "Corona USA",
         "image": "corona.jpg",
         "modalimage": "corona.jpg",
-        "description": "Professional Project",
+        "description": "Role: Developer",
         "button": "Visit Coronausa.com!",
         "url": "https://www.coronausa.com/",
         "summary": "Main homepage for Corona USA™. Built using React.JS, Meteor, Scss and is hosted on Heroku."
     },
     {
+        "title": "The Fresh Market",
+        "image": "freshmarket.jpg",
+        "modalimage": "freshmarket.jpg",
+        "description": "Role: Developer - Maintenance",
+        "button": "Visit TheFreshMarket.com!",
+        "url": "https://www.thefreshmarket.com",
+        "summary": "The Fresh Market is served by an Express app that renders React and Redux. The back end is written in Java using Spring Boot and Eureka."
+    },
+    {
         "title": "Upshot Agency",
         "image": "upshot.jpg",
         "modalimage": "upshot.jpg",
-        "description": "Professional Project",
+        "description": "Role: Lead Developer",
         "button": "Visit Upshot.agency!",
         "url": "https://www.upshot.agency",
         "summary": "Upshot.agency was a complete site rebuild using React.js and scss. It is hosted using a static build on AWS's Elastic Beanstalk."
@@ -21,17 +30,26 @@
         "title": "Mazola Turkey Frying",
         "image": "mazola.jpg",
         "modalimage": "mazola.jpg",
-        "description": "Professional Project",
+        "description": "Role: Sole Developer",
         "button": "Visit Mazola Turkey Frying!",
         "url": "https://mazola-turkey-frying-landing.herokuapp.com/",
         "summary": "Mazola Turkey Frying is a React.Js app built for Mazola Corn Oil. It utilizes Scss styling and React's useful modal package and is hosted on Heroku."
+    },
+    {
+        "title": "Smithfield Nascar",
+        "image": "smithfield-nascar.jpg",
+        "modalimage": "smithfield-nascar.jpg",
+        "description": "Role: Lead Developer",
+        "button": "Visit Smithfield Nascar!",
+        "url": "https://smithfieldracetothetable.com",
+        "summary": "Smithfield Nascar is a sweepstakes site that was built using React, Redux, Exprexx, and a MongoDB backend."
     },
     
     {
         "title": "Edge Marketing",
         "image": "edge.jpg",
         "modalimage": "edge.jpg",
-        "description": "Professional Project",
+        "description": "Role: Sole Developer",
         "button": "Visit Welcometoedge.com!",
         "url": "https://www.welcometoedge.com",
         "summary": "Edge Marketing was a complete site rebuild using HubSpot"
@@ -40,7 +58,7 @@
         "title": "Packers Bacon Sweepstakes",
         "image": "cudahy.jpg",
         "modalimage": "cudahy.jpg",
-        "description": "Professional Project",
+        "description": "Role: Sole Developer",
         "button": "Visit Packersbaconsweeps.com!",
         "url": "https://patrick-cudahy-sweepstakes.herokuapp.com/",
         "summary": "Packers Bacon Sweeps is a site built for Patrick Cudahy Bacon. It is built in React.js and utilizes formik.js for its form validation. The entryform is validated by Google Recaptcha and saved in a Mongo Database via Compose.io."
@@ -49,7 +67,7 @@
         "title": "Pacifico Preserves",
         "image": "pacifico.jpg",
         "modalimage": "pacifico.jpg",
-        "description": "Professional Project",
+        "description": "Role: Sole Developer",
         "button": "Visit PacificoPreserves.com!",
         "url": "https://pacifico-preserves.herokuapp.com/",
         "summary": "Pacifico Preserves is a single page React.JS app built using React and Scss and is hosted on Heroku."
@@ -58,7 +76,7 @@
         "title": "Pineridge Farms",
         "image": "pineridge.jpg",
         "modalimage": "pineridge.jpg",
-        "description": "Professional Project",
+        "description": "Role: Sole Developer",
         "button": "Visit Pineridge Farms!",
         "url": "https://pineridgefarmspork.com",
         "summary": "Pineridge Farms Pork was a complete website rebuild using Wordpress and hosted on AWS's Elastic Beanstalk."
@@ -67,7 +85,7 @@
         "title": "Not Your Fathers Quiz",
         "image": "nyf.jpg",
         "modalimage": "nyf.jpg",
-        "description": "Professional Project",
+        "description": "Role: Sole Developer",
         "button": "Visit NYF Quiz!",
         "url": "https://notyourfathers.com/whats-your-perfect-night-in/",
         "summary": "A simple quiz to determine your ideal night in. Built with Wordpress and hosted on AWS's Elastic Beanstalk."
@@ -76,7 +94,7 @@
         "title": "Plainfield Fishing Resort",
         "image": "fishing.jpg",
         "modalimage": "fishing.jpg",
-        "description": "Freelance Project",
+        "description": "Freelance Project - Sole Developer",
         "button": "Visit Plainfieldfishing.com!",
         "url": "https://plainfieldfishing.com",
         "summary": "A freelance website built for the Plainfield Fishing Resort using bootstrap, css, and javascript and hosted on Github. "
