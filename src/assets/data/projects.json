@@ -1,21 +1,48 @@
 [
     {
-        "title": "Corona USA",
-        "image": "corona.jpg",
-        "modalimage": "corona.jpg",
-        "description": "Role: Developer",
-        "button": "Visit Coronausa.com!",
-        "url": "https://www.coronausa.com/",
-        "summary": "Main homepage for Corona USA™. Built using React.JS, Meteor, Scss and is hosted on Heroku."
-    },
-    {
         "title": "The Fresh Market",
         "image": "freshmarket.jpg",
         "modalimage": "freshmarket.jpg",
-        "description": "Role: Developer - Maintenance",
+        "description": "Role: Lead Front End Developer",
         "button": "Visit TheFreshMarket.com!",
         "url": "https://www.thefreshmarket.com",
         "summary": "The Fresh Market is served by an Express app that renders React and Redux. The back end is written in Java using Spring Boot and Eureka."
+    },
+    {
+        "title": "Fleischmann's Yeast",
+        "image": "fleischmanns.jpg",
+        "modalimage": "fleischmanns.jpg",
+        "description": "Role: Lead Developer",
+        "button": "Visit Fleischmannsyeast.com!",
+        "url": "https://www.fleischmannsyeast.com/",
+        "summary": "Fleischmann's Yeast is built with WordPress and is hosted on AWS's Elastic Beanstalk. It uses a custom recipe plugin to categorize and facet over 800 recipes."
+    },
+    {
+        "title": "Pfaff Creative Icon 2",
+        "image": "pfaff.jpg",
+        "modalimage": "pfaff.jpg",
+        "description": "Role: Lead Developer",
+        "button": "Visit CreativeIcon2.pfaff.com!",
+        "url": "https://www.creativeicon2.pfaff.com/",
+        "summary": "Pfaff Creative Icon 2 landing page is built using React.js and a Node/Express backend. It features a signup form that auto populates dealers near your location using either geolocation or zip code."
+    },
+    {
+        "title": "Karo Syrup",
+        "image": "karo.jpg",
+        "modalimage": "karo.jpg",
+        "description": "Role: Lead Developer",
+        "button": "Visit Karosyrup.com!",
+        "url": "https://www.karosyrup.com/",
+        "summary": "Karo Syrup is built with WordPress and is hosted on AWS's Elastic Beanstalk. It uses a custom recipe plugin to categorize and facet over 800 recipes."
+    },
+    {
+        "title": "Corona USA",
+        "image": "corona.jpg",
+        "modalimage": "corona.jpg",
+        "description": "Role: Lead Developer",
+        "button": "Visit Coronausa.com!",
+        "url": "https://www.coronausa.com/",
+        "summary": "Main homepage for Corona USA™. Built using React.JS, Meteor, Scss and is hosted on Heroku. The site uses a custom Node/Express app to collect sweepstake entry data."
     },
     {
         "title": "Upshot Agency",
@@ -67,37 +94,10 @@
         "title": "Pacifico Preserves",
         "image": "pacifico.jpg",
         "modalimage": "pacifico.jpg",
-        "description": "Role: Sole Developer",
+        "description": "Role: Lead Developer",
         "button": "Visit PacificoPreserves.com!",
         "url": "https://pacifico-preserves.herokuapp.com/",
         "summary": "Pacifico Preserves is a single page React.JS app built using React and Scss and is hosted on Heroku."
-    },
-    {
-        "title": "Pineridge Farms",
-        "image": "pineridge.jpg",
-        "modalimage": "pineridge.jpg",
-        "description": "Role: Sole Developer",
-        "button": "Visit Pineridge Farms!",
-        "url": "https://pineridgefarmspork.com",
-        "summary": "Pineridge Farms Pork was a complete website rebuild using Wordpress and hosted on AWS's Elastic Beanstalk."
-    },
-    {
-        "title": "Not Your Fathers Quiz",
-        "image": "nyf.jpg",
-        "modalimage": "nyf.jpg",
-        "description": "Role: Sole Developer",
-        "button": "Visit NYF Quiz!",
-        "url": "https://notyourfathers.com/whats-your-perfect-night-in/",
-        "summary": "A simple quiz to determine your ideal night in. Built with Wordpress and hosted on AWS's Elastic Beanstalk."
-    },
-    {
-        "title": "Plainfield Fishing Resort",
-        "image": "fishing.jpg",
-        "modalimage": "fishing.jpg",
-        "description": "Freelance Project - Sole Developer",
-        "button": "Visit Plainfieldfishing.com!",
-        "url": "https://plainfieldfishing.com",
-        "summary": "A freelance website built for the Plainfield Fishing Resort using bootstrap, css, and javascript and hosted on Github. "
     }
 ]
 
